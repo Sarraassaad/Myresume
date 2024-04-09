@@ -1,2 +1,2 @@
 # Myresume
-My CV project from Redo
+My CV project from Redi
